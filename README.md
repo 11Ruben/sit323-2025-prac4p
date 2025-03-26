@@ -1,7 +1,7 @@
 # SIT323- Cloud Native Application Development
 
 ## sit323-2025-prac4p: Building a simple calculator microservice
-This a API is bulit to perform basic arithmetic operations such as addition, subtraction, multiplication and division.
+This is a API bulit to perform basic arithmetic operations such as addition, subtraction, multiplication and division.
 
 ## How to use:
 
